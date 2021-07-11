@@ -1,5 +1,0 @@
-When working locally on the file, change the location of the href from the online repository:
-
-<link rel="stylesheet" href="https://github.com/Mambwe-Musukwa/Coding-102/blob/main/googlestyle.css">
-
-to the local directory where the css file is.
